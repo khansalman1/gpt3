@@ -5,7 +5,7 @@ import './features.css';
 
 const Features = () => {
   return (
-    Features
+    <div>Features</div>
   )
 }
 

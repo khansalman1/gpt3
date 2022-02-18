@@ -6,7 +6,7 @@ import './blog.css';
 
 const Blog = () => {
   return (
-    Blog
+    <div>Blog</div>
   )
 }
 

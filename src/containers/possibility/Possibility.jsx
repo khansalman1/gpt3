@@ -5,7 +5,7 @@ import './possibility.css';
 
 const Possibility = () => {
   return (
-    Possibility
+    <div>Possibility</div>
   )
 }
 

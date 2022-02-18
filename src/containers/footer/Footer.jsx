@@ -5,7 +5,7 @@ import './footer.css';
 
 const Footer = () => {
   return (
-    Footer
+    <div>Footer</div>
   )
 }
 
